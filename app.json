@@ -26,7 +26,7 @@
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": "AQGTnQYAqOtqQE5gQiuBIj-lykVY-JP1LeTDZz64t13jOOFpJbWTF_d2EreVqbK1RU3k0V5zHC1IBbg7PcfYi2Y1Dif6eAO52dYwkW3UuTIdvykGk376a4jx1_AJDMrijZcELKdHJjwHi2o6856NkPoi0SywxNVae6RYRU--xDpAhkQfTqhoTVG7ExX0V5J-3WhpPVqvA-qbl2r-MFRzQDRvQGWLLLLIdP4JW2e5t6e_2or7Z9XgPM9CCgqLxc5kepl7QY4jkaI24RK2CFIeYvGjMXOyIl8pGMVjt3TUlR-gqL16vLz0GkrvH2zCox78fwX0_Q5FvDuZx9Q0CFbTX_vcXIH8lwAAAAGXIGczAA"
+            "AQGTnQYAuoLfVq8NUuZbaPRxMU0OM0D5xEP-4w6NL4akEYXYwYcOT1m__-xC0AoU0FVI8KniroAILhTtzsJSkq61PHDZj_V8pVvQFL3CFU0mMJeYSqE4rRuCfch2L5Rec4UwkljWqGvbZ8TAwPA4RJMPMdxPJTsqxnhJENs5EC-Kl4XE9u-BSXfcXXKCljl1WaReHCWneaDxsIyNnhkp8Ylhh5xo_6lYfvuBjWmfL-8NBJfOeKjr7rgcWMBrOFld9D3g9Ec8RZ3gED3ujrgMSBWTJnbFlrFmAoJFUz-LVEGS8UzYH6l7p08J1xqEPo9-2lyyttFRUayv4gS20XVajwnca0Ln0gAAAAGXIGczAA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",

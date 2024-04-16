@@ -22,11 +22,11 @@
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "6690706071:AAGs6kDH-6Q_AHcDuDR5Ms85KtNxSqilryg"
+            "value": "6584160437:AAFLLL6nntmqLkx2eyVasBW5Gfl9pzFL0Z8"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": "AQASQ7rZO4J42MVDIssIwPBQ1lFhF3n2GFM-h_46inCODNMrqfjRCyeBkBLNytywE_OhFig8N1xKpthfUUExHuHTtPO_BABWrPOR4OeJzsQIEco0F0rxIvJv4QQIxYmFHuSr2z0tUS23s8TLUdJUi_CZr_P6pQWsl0SJIw28SlDQqq8nYz7Ycg61JE2hXP91lDvSnuiNO2qA0rh3rTqPj7J0GYi2nZJ8X2Tn9b-KP7FTzIrmVsAfumg1ys24JO-XTxhw1dcaFmqx3ZIIlKOuM7mBzkwqMD4j3TRh1Tl0uUhw4iQjTas3Top9uEfCoA2HDxSB-G0kBMJ5eEiAnWDpwEZ3AAAAAZcgZzMA"
+            "value": "AQGTnQYAqOtqQE5gQiuBIj-lykVY-JP1LeTDZz64t13jOOFpJbWTF_d2EreVqbK1RU3k0V5zHC1IBbg7PcfYi2Y1Dif6eAO52dYwkW3UuTIdvykGk376a4jx1_AJDMrijZcELKdHJjwHi2o6856NkPoi0SywxNVae6RYRU--xDpAhkQfTqhoTVG7ExX0V5J-3WhpPVqvA-qbl2r-MFRzQDRvQGWLLLLIdP4JW2e5t6e_2or7Z9XgPM9CCgqLxc5kepl7QY4jkaI24RK2CFIeYvGjMXOyIl8pGMVjt3TUlR-gqL16vLz0GkrvH2zCox78fwX0_Q5FvDuZx9Q0CFbTX_vcXIH8lwAAAAGXIGczAA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
@@ -34,7 +34,7 @@
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": "bhuriyarestricted"
+            "value": "bhuriyasavenikalo"
         }
     },
     "stack": "container"

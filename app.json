@@ -1,5 +1,4 @@
 {
-
     "name": "Save restricted content bot",
     "description": "Telegram bot to save restricted content.",
     "logo": "",
@@ -12,7 +11,7 @@
     "website": "",
     "success_url": "https://t.me/save_restricted",
     "env": {
-            "API_HASH": {
+        "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
             "value": "32984406271d6f3945bb536671b143a7"
         },
@@ -26,7 +25,7 @@
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "AQGTnQYAuoLfVq8NUuZbaPRxMU0OM0D5xEP-4w6NL4akEYXYwYcOT1m__-xC0AoU0FVI8KniroAILhTtzsJSkq61PHDZj_V8pVvQFL3CFU0mMJeYSqE4rRuCfch2L5Rec4UwkljWqGvbZ8TAwPA4RJMPMdxPJTsqxnhJENs5EC-Kl4XE9u-BSXfcXXKCljl1WaReHCWneaDxsIyNnhkp8Ylhh5xo_6lYfvuBjWmfL-8NBJfOeKjr7rgcWMBrOFld9D3g9Ec8RZ3gED3ujrgMSBWTJnbFlrFmAoJFUz-LVEGS8UzYH6l7p08J1xqEPo9-2lyyttFRUayv4gS20XVajwnca0Ln0gAAAAGXIGczAA"
+            "value": "AQGTnQYAuoLfVq8NUuZbaPRxMU0OM0D5xEP-4w6NL4akEYXYwYcOT1m__-xC0AoU0FVI8KniroAILhTtzsJSkq61PHDZj_V8pVvQFL3CFU0mMJeYSqE4rRuCfch2L5Rec4UwkljWqGvbZ8TAwPA4RJMPMdxPJTsqxnhJENs5EC-Kl4XE9u-BSXfcXXKCljl1WaReHCWneaDxsIyNnhkp8Ylhh5xo_6lYfvuBjWmfL-8NBJfOeKjr7rgcWMBrOFld9D3g9Ec8RZ3gED3ujrgMSBWTJnbFlrFmAoJFUz-LVEGS8UzYH6l7p08J1xqEPo9-2lyyttFRUayv4gS20XVajwnca0Ln0gAAAAGXIGczAA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
@@ -38,4 +37,4 @@
         }
     },
     "stack": "container"
-}    
+}

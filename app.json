@@ -25,7 +25,7 @@
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": "AQGTnQYAuoLfVq8NUuZbaPRxMU0OM0D5xEP-4w6NL4akEYXYwYcOT1m__-xC0AoU0FVI8KniroAILhTtzsJSkq61PHDZj_V8pVvQFL3CFU0mMJeYSqE4rRuCfch2L5Rec4UwkljWqGvbZ8TAwPA4RJMPMdxPJTsqxnhJENs5EC-Kl4XE9u-BSXfcXXKCljl1WaReHCWneaDxsIyNnhkp8Ylhh5xo_6lYfvuBjWmfL-8NBJfOeKjr7rgcWMBrOFld9D3g9Ec8RZ3gED3ujrgMSBWTJnbFlrFmAoJFUz-LVEGS8UzYH6l7p08J1xqEPo9-2lyyttFRUayv4gS20XVajwnca0Ln0gAAAAGXIGczAA"
+            "value": "AQGTnQYAAtWWiEGL6G4MvdV2R5jCHFyfMno7TvW40Vz0VO7hAOeGQV3ti4K87-l5UqeEUGorTuzfCpp6cdmZSfowIvJp8RaYlgf-H3TINAo3zibFJAuI3yA1UMShGn6VwBZv-dkVUlfK9F1PoWzJ-Wgk3JP7ibfBcOPc3ou6_7MgRWwHSmZLHdewbNWNUshgtlUkmIvMbdadA1Ch9sy2ph_rqRGpLnlxnRgGZzNtK5dIOonStAxf-zVcolba424DoqZ39WiBx_mEOP2CcNPW83LO1TlOgVW-tYRz792fnhshHuLndwrTGvDCZV2i7sY669ZYU-bwFJRUn2t0DB8w56re8iW-lwAAAAGXIGczAA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
@@ -33,7 +33,7 @@
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": "bhuriyasavenikalo"
+            "value": "bhuriyasave"
         }
     },
     "stack": "container"
